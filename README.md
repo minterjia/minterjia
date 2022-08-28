@@ -1,5 +1,5 @@
 # ⭐️ 丨Wiki丨⭐️
-## <a href="https://sianx.com/" target="_blank" style="color:deeppink;">_🚀 My Blog_</a>丨<a href="https://sianx.com/about/" target="_blank" style="color:chartreuse;">_About Me 💩_</a>
+## <a href="https://minterjia.com/" target="_blank" style="color:deeppink;">_🚀 My Blog_</a>丨<a href="https://minterjia.com/s/about/" target="_blank" style="color:chartreuse;">_About Me _</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=L-20021213&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
 <!--
