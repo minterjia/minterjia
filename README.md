@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=L-20021213&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
 <!--
-**L-20021213/L-20021213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
