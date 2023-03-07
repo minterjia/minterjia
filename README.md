@@ -1,3 +1,5 @@
+---
+
 # 大家好 👋
 
 <p align="center">
@@ -20,7 +22,8 @@
 
 
 ---
-  
+
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minterjia&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,JavaScript,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
   
@@ -58,6 +61,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=minterjia.minterjia&left_color=green&right_color=red"/>
+</p>
+
 
 <!--
 **米尔嘉** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,4 +80,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=minterjia.minterjia&left_color=green&right_color=red"/>
+</p>
 -->
