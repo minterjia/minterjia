@@ -3,7 +3,7 @@
 <p align="center">
 <img src="./icons/header_.png"></img>
 中文 | <a href="#">English</a></br>
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=C+++%7C+Python+%7C+Java+%7C+Go+Developer"></img>
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=C语言+%7C+Python+%7C+Java+%7C+Go+Developer"></img>
 </p>
 
 ### 我是米尔嘉
