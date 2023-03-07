@@ -1,8 +1,8 @@
 # 大家好 👋
 
 <p align="center">
-<img src="./icons/header_.png"></img>
-中文 | <a href="README_en.md">English</a></br>
+<img src="https://minterjia.com/upload/2023/03/header_.png"></img>
+中文 | <a href="#">English</a></br>
 <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=6000&lines=Cpp+%7C+Python+%7C+Rust+%7C+Go+Developer"></img>
 </p>
 
@@ -17,6 +17,7 @@
 * [HomePage](https://butterfly.top) 主页.
 * [Blog](https://blog.butterfly.top/) halo博客
 * [Blog](https://minterjia.com/) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
+
 
 ---
   
@@ -45,12 +46,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Minterjia&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
 
 
-**Wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**米尔嘉** is a ✨ _special_ ✨ 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 <!--
-**Wiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**米尔嘉** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
