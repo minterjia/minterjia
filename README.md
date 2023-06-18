@@ -14,8 +14,8 @@
 
 ### 我目前的网站
 
-* [HomePage](https://butterfly.top) 主页.
-* [Blog](https://butterfly.top/) halo博客
+<!--* [HomePage](https://butterfly.top) 主页.
+* [Blog](https://butterfly.top/) halo博客-->
 * [Blog](https://minterjia.com/) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
 
 
