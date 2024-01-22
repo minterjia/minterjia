@@ -44,6 +44,7 @@
 
 
 
+✨ ✨ ✨ 
 
 # 大家好 👋
 
@@ -74,7 +75,7 @@
 
   
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=minterjia&left_color=green&right_color=red"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=minterjia.minterjia&left_color=green&right_color=red"/>
 </p>
 
 ---
