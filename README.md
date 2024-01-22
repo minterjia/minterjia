@@ -9,34 +9,26 @@
 ### 我是米尔嘉
 
 * 来自中国江苏 🌱🌱🌱
-* 目前在江苏 🔰🔰🔰
+* 目前在上海师范大学读研 🔰🔰🔰
 * 一个狂热的开源爱好者 🚀🚀🚀
 
-### 我目前的网站
+### 我的博客
 
-<!--* [HomePage](https://butterfly.top) 主页.
-* [Blog](https://butterfly.top/) halo博客-->
-* [Blog](https://blog.minterjia.com) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
+<!--* [Blog](https://butterfly.top/) halo博客-->
 
+* [Blog](https://minterjia.com) 我的开发博客，记录我的项目开发日志与开发中有趣的故事.
 
 ---
 
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minterjia&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,JavaScript,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=minterjia&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minterjia&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,JavaScript,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=minterjia&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
 </p>
+
   
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=minterjia.minterjia&left_color=green&right_color=red"/>
 </p>
-
-
-
-
-
-
 
 ---
 
@@ -46,7 +38,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Minterjia&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
 
+---
 
+<!--
 **米尔嘉** is a ✨ _special_ ✨ 
 
 
@@ -63,6 +57,7 @@
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=minterjia.minterjia&left_color=green&right_color=red"/>
 </p>
+-->
 
 
 <!--
